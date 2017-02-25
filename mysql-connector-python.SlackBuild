@@ -19,13 +19,13 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: mysql-connector-python.SlackBuild,v 1.4 2017/02/25 21:04:41 gsotirov Exp $
+# $Id: mysql-connector-python.SlackBuild,v 1.5 2017/02/25 21:19:54 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=mysql-connector-python
-VERSION=2.0.5
+VERSION=2.1.5
 ARCH=${ARCH:-i486}
 BUILD=${BUILD:-1}
 
