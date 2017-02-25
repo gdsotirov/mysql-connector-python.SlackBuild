@@ -1,0 +1,11 @@
+mysql-connector-python: MySQL Connector/Python (MySQL driver written in Python)
+mysql-connector-python:
+mysql-connector-python: MySQL Connector/Python is a standardized database driver
+mysql-connector-python: implementing DB API v2.0 specification for Python
+mysql-connector-python: platforms and development. The driver does not depend on
+mysql-connector-python: MySQL C client libraries, because it is implementing the
+mysql-connector-python: MySQL client/server protocol completely in Python.
+mysql-connector-python:
+mysql-connector-python:
+mysql-connector-python:
+mysql-connector-python: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
