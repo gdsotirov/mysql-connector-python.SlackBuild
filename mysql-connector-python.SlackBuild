@@ -19,7 +19,7 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: mysql-connector-python.SlackBuild,v 1.5 2017/02/25 21:19:54 gsotirov Exp $
+# $Id: mysql-connector-python.SlackBuild,v 1.6 2017/06/27 10:57:34 gsotirov Exp $
 #
 
 . ../../slack-package.conf
@@ -72,7 +72,7 @@ mkdir -p $PKG/install
 install -m 644 $CWD/slack-desc     $PKG/install/slack-desc
 install -m 644 $CWD/slack-required $PKG/install/slack-required
 
-SBDIR=$PKG/usr/src/slackbuild/${NAME}-${VERSION}
+SBDIR=$PKG/usr/src/slackbuilds/${NAME}-${VERSION}
 mkdir -p $SBDIR
 install -m 644 $CWD/slack-desc         $SBDIR/slack-desc
 install -m 644 $CWD/slack-required     $SBDIR/slack-required
